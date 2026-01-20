@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-procurement",
+  "version": "0.1.0",
+  "description": "WebWaka procurement suite - runtime",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
